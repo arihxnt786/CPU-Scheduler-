@@ -26,6 +26,6 @@ CPU scheduling is a foundational operating-systems problem. Implementing the alg
 
 ## Author
 
-**Arihant** — BCA student at JIIT Delhi
+**Arihant** — BCA student at JIIT Noida
 
 [GitHub](https://github.com/arihxnt786)
